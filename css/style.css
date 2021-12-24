@@ -188,7 +188,7 @@ header nav .form i {
 /* Start landing */
 .landind {
   min-height: 100vh;
-  background-image: url(/images/diagoona-bg-3.jpg);
+  background-image: url(images/diagoona-bg-3.jpg);
   background-size: cover;
 }
 .landind .overlay {
